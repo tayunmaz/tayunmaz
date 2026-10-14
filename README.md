@@ -1,4 +1,4 @@
-# Hi, I'm Pablo 👋
+# Hi, I'm Pablo 
 
 **Software Engineer | Full-Stack · Backend · Mobile**
 
@@ -6,7 +6,7 @@ I'm a **USC Computer Science graduate** with experience developing enterprise op
 
 ## Featured engineering work
 
-### 📱 Q'd — Independent full-stack mobile application
+###  Q'd — Independent full-stack mobile application
 
 A queue-based mobile platform designed around intentional profile reviews and connections. The application includes profile interactions, reaction workflows, relationship management, and mobile navigation.
 
@@ -16,7 +16,7 @@ A queue-based mobile platform designed around intentional profile reviews and co
 
 **[Q'd source repository](https://github.com/tayunmaz/qd)** · *Currently private while being prepared for public release.*
 
-### 🏭 Enterprise Order Management System — Professional engineering case study
+###  Enterprise Order Management System — Professional engineering case study
 
 An enterprise manufacturing operations system involving order lifecycles, inventory, purchasing, production tracking, shipping, and integrations.
 
@@ -42,7 +42,7 @@ An enterprise manufacturing operations system involving order lifecycles, invent
 ## Connect
 
 - **GitHub:** [github.com/tayunmaz](https://github.com/tayunmaz)
-- **LinkedIn / contact:** Available through my job applications
+- **LinkedIn / [linkedin.com/in/pablo-tayun-mazariegos](www.linkedin.com/in/pablo-tayun-mazariegos-29bb0b422)
 
 ---
 
