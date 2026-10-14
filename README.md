@@ -1,29 +1,49 @@
-## Hi there 👋
+# Hi, I'm Pablo 👋
 
-I'm a Computer engineer and USC Computer Science graduate focused on full-stack development, backend engineering, and mobile applications.
-I've worked on enterprise operations software and build independent products that combine thoughtful user experiences with secure APIs, relational databases, and cloud infrastructure.
+**Software Engineer | Full-Stack · Backend · Mobile**
 
-Featured engineering work
+I'm a **USC Computer Science graduate** with experience developing enterprise operations software and building independent applications. I enjoy working across the stack: user interfaces, backend APIs, relational databases, integrations, testing, and cloud infrastructure.
 
-Q'd — Full-Stack Mobile Application
-A queue-based mobile platform for intentional connections, with profile reviews, reactions, relationship workflows, and messaging features.
-Tech: React Native, Expo, NestJS, TypeScript, PostgreSQL, Drizzle ORM, AWS, Docker.
-Engineering focus: Stateful backend workflows, authentication, mobile interactions, relational data modeling, testing, and cloud infrastructure.
-Q'd project https://github.com/tayunmaz/qd
+## Featured engineering work
 
-Enterprise Order Management System — Professional Work
-Developed software supporting manufacturing operations across orders, inventory, purchasing, production, shipping, and business integrations.
-Tech: Python, Flask, MySQL, SQLAlchemy, Docker, Socket.IO; integration experience with Entra ID and EDI systems.
-Engineering focus: Business process automation, database-backed operations, authentication and authorization, integration workflows, and real-time updates.
-Employer-owned implementation is private. A public, sanitized case study will be linked here only after review and authorization.
+### 📱 Q'd — Independent full-stack mobile application
 
-Technical skills
-Languages: TypeScript, JavaScript, Python, SQL
-Frontend and mobile: React, React Native, Expo
-Backend: NestJS, Node.js, Flask, REST APIs
-Databases: PostgreSQL, MySQL, Drizzle ORM, SQLAlchemy
-Infrastructure: Docker, AWS, GitHub Actions, CI/CD
-Contact
-- GitHub: github.com/tayunmaz
-- LinkedIn: Add profile URL
-- Email: Add preferred professional contact email
+A queue-based mobile platform designed around intentional profile reviews and connections. The application includes profile interactions, reaction workflows, relationship management, and mobile navigation.
+
+**Stack:** React Native, Expo, TypeScript, NestJS, PostgreSQL, Drizzle ORM, Better Auth, Docker, AWS.
+
+**Engineering focus:** Stateful backend workflows, authentication, mobile experiences, API design, relational data modeling, testing, and cloud infrastructure.
+
+**[Q'd source repository](https://github.com/tayunmaz/qd)** · *Currently private while being prepared for public release.*
+
+### 🏭 Enterprise Order Management System — Professional engineering case study
+
+An enterprise manufacturing operations system involving order lifecycles, inventory, purchasing, production tracking, shipping, and integrations.
+
+**Stack:** Python, Flask, Jinja, JavaScript, MySQL, SQLAlchemy, Docker, Socket.IO; integration experience with Microsoft Entra ID and EDI / logistics workflows.
+
+**Engineering focus:** Business process workflows, database-backed operations, server-side authorization, integration design, and operational reliability.
+
+**[Read the public OMS engineering case study →](https://github.com/tayunmaz/enterprise-oms-case-study)**
+
+*The original employer-owned OMS source is private. The public case study describes engineering concepts without distributing that application.*
+
+## Technologies
+
+| Area | Tools |
+| --- | --- |
+| Languages | TypeScript, JavaScript, Python, SQL |
+| Frontend & mobile | React, React Native, Expo, Jinja |
+| Backend | NestJS, Node.js, Flask, REST APIs |
+| Data | PostgreSQL, MySQL, Drizzle ORM, SQLAlchemy |
+| Infrastructure | AWS, Docker, GitHub Actions, CI/CD |
+| Authentication & integrations | Better Auth, Microsoft Entra ID, EDI |
+
+## Connect
+
+- **GitHub:** [github.com/tayunmaz](https://github.com/tayunmaz)
+- **LinkedIn / contact:** Available through my job applications
+
+---
+
+*Interested in full-stack and backend software engineering opportunities.*
