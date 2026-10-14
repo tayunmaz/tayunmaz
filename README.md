@@ -9,7 +9,7 @@ Q'd — Full-Stack Mobile Application
 A queue-based mobile platform for intentional connections, with profile reviews, reactions, relationship workflows, and messaging features.
 Tech: React Native, Expo, NestJS, TypeScript, PostgreSQL, Drizzle ORM, AWS, Docker.
 Engineering focus: Stateful backend workflows, authentication, mobile interactions, relational data modeling, testing, and cloud infrastructure.
-Q'd project (link will be visible to everyone only after the repository is approved for publication)
+Q'd project https://github.com/tayunmaz/qd
 
 Enterprise Order Management System — Professional Work
 Developed software supporting manufacturing operations across orders, inventory, purchasing, production, shipping, and business integrations.
